@@ -7,6 +7,6 @@ This works with the built in Trivia with the vanilla RedBot.
 2. Connect to your server
 3. Add the new files to the "redbot/cogs/trivia/data/lists/" location.
 
-New Trivia Categories
+# New Trivia Categories
  - Space
  - World Hisotry
