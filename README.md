@@ -9,4 +9,4 @@ This works with the built in Trivia with the vanilla RedBot.
 
 # New Trivia Categories
  - Space
- - World Hisotry
+ - World History
